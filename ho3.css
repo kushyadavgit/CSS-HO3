@@ -20,6 +20,7 @@ body{
     position: fixed;
     background-color: greenyellow;
     z-index: 1;
+    text-shadow: 3px 3px 3px purple;
 }
 
 
